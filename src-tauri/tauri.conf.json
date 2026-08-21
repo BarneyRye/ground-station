@@ -37,7 +37,7 @@
     "updater": {
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDhFRjE3MTExMTIyRjQwOUQKUldTZFFDOFNFWEh4anFmSE1jMGZOc3U1MFJWMXBuYmNDcmZCSHl6VjFzbGEvRTU4bGZrcEpkcDgK",
       "endpoints": [
-        "https://github.com/OWNER/REPO/releases/latest/download/latest.json"
+        "https://github.com/BarneyRye/ground-station/releases/latest/download/latest.json"
       ],
       "windows": {
         "installMode": "passive"
