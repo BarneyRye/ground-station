@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "node_modules": true,
+      "dist": true,
+      "src-tauri/target": true,
+      "src-tauri/gen": true,
+      ".tanstack": true
+    },
+    "css.lint.unknownAtRules": "ignore"
+  }
+}
