@@ -6,10 +6,10 @@ export function HomeButton() {
   return (
     <Button
       asChild
-      className="border-5 hover:bg-foreground hover:border-primary text-2xl rounded-xl items-center h-auto py-3"
+      className="border-5 border-transparent hover:bg-foreground hover:border-primary text-xl rounded-xl items-center w-40 h-10"
     >
       <Link to="/">
-        <PanelsTopLeftIcon className="size-7" />
+        <PanelsTopLeftIcon className="size-5" />
         Dashboard
       </Link>
     </Button>
